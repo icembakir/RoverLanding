@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverLanding", "RoverLanding\RoverLanding.csproj", "{1A2256BD-EB41-4DD4-870E-C9E1F4F217AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverLanding.Tests", "RoverLanding.Tests\RoverLanding.Tests.csproj", "{6698814E-B7C6-4B7B-9B36-295F51230407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2256BD-EB41-4DD4-870E-C9E1F4F217AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2256BD-EB41-4DD4-870E-C9E1F4F217AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2256BD-EB41-4DD4-870E-C9E1F4F217AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2256BD-EB41-4DD4-870E-C9E1F4F217AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6698814E-B7C6-4B7B-9B36-295F51230407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6698814E-B7C6-4B7B-9B36-295F51230407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6698814E-B7C6-4B7B-9B36-295F51230407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6698814E-B7C6-4B7B-9B36-295F51230407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74CBEB24-0898-44FD-BA7E-08707860AF9F}
+	EndGlobalSection
+EndGlobal
